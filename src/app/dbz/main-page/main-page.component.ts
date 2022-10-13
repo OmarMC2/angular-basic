@@ -1,7 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component} from '@angular/core';
 import { Personaje } from "../interfaces/dbz.interfaces";
-import { AgregarComponent } from '../agregar/agregar.component';
-import { DbzSerivce } from '../services/dbz.service';
 
 
 

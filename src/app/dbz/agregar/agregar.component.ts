@@ -1,5 +1,5 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
-import { OutletContext } from '@angular/router';
+import { Component, Input} from '@angular/core';
+
 import { Personaje } from '../interfaces/dbz.interfaces';
 import { DbzSerivce } from '../services/dbz.service';
 @Component({
